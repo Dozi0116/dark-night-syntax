@@ -1,0 +1,19 @@
+{
+  "name": "dark-night-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "As a dark night sky syntax, but a little colorful.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "dark",
+    "night",
+    "colorful",
+    "darknightsyntax"
+  ],
+  "repository": "https://github.com/Dozi0116/dark-night-syntax/",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
